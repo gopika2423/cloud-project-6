@@ -1,0 +1,9 @@
+# See https://help.github.com/articles/ignoring-files for more information about ignoring files.
+
+.next
+out
+node_modules
+.vite
+npm-debug.log*
+.DS_Store
+*.log
